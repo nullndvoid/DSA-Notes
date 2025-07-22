@@ -6,7 +6,6 @@ package xyz.nullndvoid.dsa;
 import java.util.*;
 
 public class MaxHeap<T extends Comparable<T>> {
-    @SuppressWarnings("unused")
     private List<T> heap;
     int size;
 
